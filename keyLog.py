@@ -9,7 +9,7 @@ import pyxhook
 import datetime
 
 #change this to your log file's path
-log_file='/home/tanmayats/Documents/pythonKeylogger/file.log'
+log_file='/home/<your user>/Documents/pythonKeylogger/file.log'
 line_length_count = 0
 
 then = datetime.datetime.now()
